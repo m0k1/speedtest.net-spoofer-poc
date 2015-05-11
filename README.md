@@ -1,2 +1,2 @@
-# speedtest.net-spoofer-poc
-POC of speedtest.net result spoofer
+# Spoofing Speedtest.net's Results
+This is javascript PoC of speedtest.net results spoofing in broswer.
